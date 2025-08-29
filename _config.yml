@@ -11,19 +11,19 @@ author:
   avatar: profile.png
   name: Taeseok Lim
   pronouns: null
-  bio: 'Remote Sensing Laboratory, Sejong University'
+  bio: 'Remote Sensing Laboratory'
   location: 'Seoul, Korea'
   employer: Sejong University
-  uri: 'null'
+  uri: null
   email: tsme323@naver.com
   academia: null
   arxiv: null
-  googlescholar: 'null'
+  googlescholar: null
   inspire-hep: null
   impactstory: null
-  orcid: 'null'
+  orcid: null
   semantic: null
-  pubmed: 'null'
+  pubmed: null
   researchgate: null
   scopus: null
   bitbucket: null
@@ -32,15 +32,15 @@ author:
   github: 'https://github.com/tsme323'
   kaggle: null
   stackoverflow: null
-  artstation: 'null'
-  bluesky: 'null'
+  artstation: null
+  bluesky: null
   facebook: null
   flickr: null
   foursquare: null
   goodreads: null
   google_plus: null
   keybase: null
-  instagram: 'null'
+  instagram: null
   lastfm: null
   linkedin: null
   mastodon: null
