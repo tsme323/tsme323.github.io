@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+
 Education
 ======
 * Visiting Scholar in Civil Engineering (Geomatics), Purdue University, USA, 2025  
@@ -25,9 +24,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Conference
+
+Researchs
 ======
-  
+
+
+Awards
+======
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
