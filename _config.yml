@@ -1,6 +1,6 @@
 locale: en-US
 site_theme: default
-title: Your Name / Site Title
+title: RS_LAB
 title_separator: '-'
 name: Taeseok Lim
 description: personal description
@@ -8,7 +8,7 @@ url: 'https://academicpages.github.io'
 baseurl: ''
 repository: academicpages/academicpages.github.io
 author:
-  avatar: IMG_9746 (1).PNG
+  avatar: IMG_9746.PNG
   name: Taeseok Lim
   pronouns: null
   bio: 'Remote Sensing Laboratory'
