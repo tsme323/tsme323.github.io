@@ -10,6 +10,11 @@ redirect_from:
 {% include base_path %}
 
 
+
+
+
+
+
 Education
 ======
 * Visiting Scholar in Civil Engineering (Geomatics), Purdue University, USA, 2025  
