@@ -10,11 +10,22 @@ location: "Seoul, South Korea"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+# Basics of MATLAB Programming
 
-Heading 2
-======
+# Univariate Statistics
 
-Heading 3
-======
+# Bivariate Statistics
+
+# Regression Analysis
+
+# Time Series Analysis – Auto-Spectral Analysis
+
+# Time Series Analysis – Cross-Spectral Analysis
+
+# Time Series Analysis – Analysis of Unevenly Spaced Data
+
+# Spatial Data Analysis – Grid Data Processing and Gridding
+
+# Spatial Data Analysis – Digital Elevation Model (DEM) Analysis
+
+# Multivariate Statistics
