@@ -2,19 +2,27 @@
 title: "Computer Programming and Practice"
 collection: teaching
 type: "TA"
+permalink: /teaching/2024-spring-cpp-ta
 venue: "Sejong University, Department of Energy and Mineral Resources Engineering"
 date: 2024-03-01
 location: "Seoul, South Korea"
-excerpt: ""   
+excerpt: ""
 ---
 
-- Basics of MATLAB Programming
-- Univariate Statistics
-- Bivariate Statistics
-- Regression Analysis
-- Time Series Analysis — Auto-Spectral Analysis
-- Time Series Analysis — Cross-Spectral Analysis
-- Time Series Analysis — Analysis of Unevenly Spaced Data
-- Spatial Data Analysis — Grid Data Processing and Gridding
-- Spatial Data Analysis — Digital Elevation Model (DEM) Analysis
-- Multivariate Statistics
+I served as a Teaching Assistant for “Computer Programming and Practice” in Spring 2024 at Sejong University.
+
+Topics Covered
+======
+
+<ul>
+  <li>Basics of MATLAB Programming</li>
+  <li>Univariate Statistics</li>
+  <li>Bivariate Statistics</li>
+  <li>Regression Analysis</li>
+  <li>Time Series Analysis – Auto-Spectral Analysis</li>
+  <li>Time Series Analysis – Cross-Spectral Analysis</li>
+  <li>Time Series Analysis – Analysis of Unevenly Spaced Data</li>
+  <li>Spatial Data Analysis – Grid Data Processing and Gridding</li>
+  <li>Spatial Data Analysis – Digital Elevation Model (DEM) Analysis</li>
+  <li>Multivariate Statistics</li>
+</ul>
