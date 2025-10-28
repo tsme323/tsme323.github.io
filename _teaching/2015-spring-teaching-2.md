@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Computer Programming and Practice"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "TA"
+permalink: /teaching/2024-spring-cs-ta
+venue: "Sejong University, Department of Energy and Mineral Resources Engineering"
+date: 2024-03-01
+location: "Seoul, South Korea"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
