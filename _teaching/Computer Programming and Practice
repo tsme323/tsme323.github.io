@@ -7,22 +7,15 @@ date: 2024-03-01
 location: "Seoul, South Korea"
 ---
 
-# Basics of MATLAB Programming
+### Topics Covered
 
-# Univariate Statistics
-
-# Bivariate Statistics
-
-# Regression Analysis
-
-# Time Series Analysis – Auto-Spectral Analysis
-
-# Time Series Analysis – Cross-Spectral Analysis
-
-# Time Series Analysis – Analysis of Unevenly Spaced Data
-
-# Spatial Data Analysis – Grid Data Processing and Gridding
-
-# Spatial Data Analysis – Digital Elevation Model (DEM) Analysis
-
-# Multivariate Statistics
+- Basics of MATLAB Programming  
+- Univariate Statistics  
+- Bivariate Statistics  
+- Regression Analysis  
+- Time Series Analysis – Auto-Spectral Analysis  
+- Time Series Analysis – Cross-Spectral Analysis  
+- Time Series Analysis – Analysis of Unevenly Spaced Data  
+- Spatial Data Analysis – Grid Data Processing and Gridding  
+- Spatial Data Analysis – Digital Elevation Model (DEM) Analysis  
+- Multivariate Statistics
