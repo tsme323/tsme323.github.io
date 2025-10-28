@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a second-year master's student in **Synthetic Aperture Radar (SAR)** remote sensing at **[Sejong University](https://www.sejong.ac.kr/)**, where I am fortunate to be advised by [**Prof. Sangwan Kim**](https://home.sejong.ac.kr/~swkim/). Currently, I am also collaborating with [**Prof. Jinha Jung**](https://engineering.purdue.edu/CCE/People/ptProfile?resource_id=222078) at **Purdue University** as a visiting scholar.
+I am a second-year master's student in **Synthetic Aperture Radar (SAR)** remote sensing at **[Sejong University](https://www.sejong.ac.kr/)**, where I am fortunate to be advised by [**Prof. Sangwan Kim**](https://home.sejong.ac.kr/~swkim/). Currently, I am also collaborating with [**Prof. Jinha Jung**](https://engineering.purdue.edu/CCE/People/ptProfile?resource_id=222078) at **Purdue University** as a visiting scholar.
 
 My research interests include **Interferometric SAR (InSAR)**, **amplitude-based change detection**, and **deep learning-based phase unwrapping**. I am particularly focused on advanced **phase linking techniques** for multi-temporal InSAR applications.
 
